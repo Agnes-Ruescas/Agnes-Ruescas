@@ -7,4 +7,4 @@ Eu sou  desenvolvedora Full Stack e estou cursando o 1° ano de Engenharia de Co
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agnesruescas/)](https://www.linkedin.com/in/agnesruescas/)
 
-Obrigado por me visitar!
+Obrigada por me visitar!

@@ -5,4 +5,4 @@
 
 ##Eu sou Agnes Ruescas! 
 
-U+1F4BB	 Sou uma desenvolvedora Full Stack
+U + 1F469 U + 200D U + 1F4BB  Sou desenvolvedora Full Stack 

@@ -1,3 +1,13 @@
+![Agnes Ruescas (3)](https://user-images.githubusercontent.com/60972489/96251279-997be500-0f86-11eb-9193-c2b92e6300a1.png)
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnes-Ruescas&hide=html&layout=compact&theme=buefy" /></td>
+    </tr>   
+</table>
+</center>  
+
 # Seja bem vindo(a)!!:smile:
 
 ### Sou Agnes Ruescas! 

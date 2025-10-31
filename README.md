@@ -13,7 +13,9 @@
 ### Sou Agnes Ruescas! 
 
 ### Sobre mim:
-Eu sou engenheira Devops e estou cursando o 3° ano de Engenharia de Computação, estou sempre em busca de mais conhecimento. Aqui vocês encontraram meus projetos e exercicios feitos em cursos. 
+Sou formada em Engenharia da Computação e atualmente curso MBA em Engenharia de Dados. Tenho experiência com Engenharia de Dados, DevOps e Desenvolvimento de Software, e adoro explorar novas formas de usar tecnologia para resolver problemas e aprender coisas novas.
+
+Aqui você vai encontrar meus projetos, estudos e experimentos, todos feitos com muita curiosidade e vontade de evoluir. 🚀💡
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agnesruescas/)](https://www.linkedin.com/in/agnesruescas/)
 
